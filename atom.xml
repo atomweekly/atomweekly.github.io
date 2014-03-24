@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://atomweekly.github.io/atom.xml" rel="self"/>
-  <link href="http://atomweekly.github.io/"/>
-  <updated>2014-03-24T13:53:02-06:00</updated>
-  <id>http://atomweekly.github.io/</id>
+  <title><![CDATA[Atom Weekly]]></title>
+  <link href="http://atomweekly.com/atom.xml" rel="self"/>
+  <link href="http://atomweekly.com/"/>
+  <updated>2014-03-24T13:56:23-06:00</updated>
+  <id>http://atomweekly.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Chris Schneider]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -14,9 +14,9 @@
   
   <entry>
     <title type="html"><![CDATA[Welcome To Atom Weekly]]></title>
-    <link href="http://atomweekly.github.io/blog/2014/03/24/welcome-to-atom-weekly/"/>
+    <link href="http://atomweekly.com/blog/2014/03/24/welcome-to-atom-weekly/"/>
     <updated>2014-03-24T13:51:31-06:00</updated>
-    <id>http://atomweekly.github.io/blog/2014/03/24/welcome-to-atom-weekly</id>
+    <id>http://atomweekly.com/blog/2014/03/24/welcome-to-atom-weekly</id>
     <content type="html"><![CDATA[<p>Welcome to Atom Weekly.</p>
 
 <p>This newsletter will feature new plugins, cool hacks, slick themes, plugin dev

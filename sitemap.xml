@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://atomweekly.github.io/blog/2014/03/24/welcome-to-atom-weekly/</loc>
+        <loc>http://atomweekly.com/blog/2014/03/24/welcome-to-atom-weekly/</loc>
         <lastmod>2014-03-24T13:52:24-06:00</lastmod>
     </url>
     <url>
-        <loc>http://atomweekly.github.io/blog/archives/</loc>
+        <loc>http://atomweekly.com/blog/archives/</loc>
         <lastmod>2014-03-24T13:52:24-06:00</lastmod>
     </url>
     <url>
-        <loc>http://atomweekly.github.io/</loc>
+        <loc>http://atomweekly.com/</loc>
         <lastmod>2014-03-24T13:52:24-06:00</lastmod>
     </url>
     <url>
-        <loc>http://atomweekly.github.io/robots.txt</loc>
+        <loc>http://atomweekly.com/robots.txt</loc>
         <lastmod>2014-03-24T12:50:23-06:00</lastmod>
     </url>
 </urlset>
